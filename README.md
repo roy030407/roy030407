@@ -47,10 +47,10 @@ Agentic AI Systems            Financial Technology (FinTech)
 
 ## 📜 Certifications
 
-- CS50's Introduction to AI with Python — *Harvard University*
+- CS50's Introduction to AI with Python — *Harvard University* - coursework completed
 - Data Science & ML Masterclass — *BITS Pilani*
 - Data Analytics Mastery (Excel & Power BI) — *BITS Pilani*
-- Microsoft Fabric (DP-600, DP-700)
+- Microsoft Fabric (DP-600, DP-700) - coursework completed
 
 ---
 
