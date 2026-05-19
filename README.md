@@ -1,6 +1,6 @@
 # Hi, I'm Roy Harwani 👋
 
-**Mathematics & Computing @ NIT Warangal** | CGPA: 8.64 / 10
+**Mathematics & Computing @ NIT Warangal** | CGPA: 8.61 / 10
 
 I'm a 2nd-year undergrad with deep interests in **quantitative finance**, **applied machine learning**, and **AI-powered product development**. My goal is to pursue research and eventually a Master's in Mathematical Finance / Quantitative Methods.
 
